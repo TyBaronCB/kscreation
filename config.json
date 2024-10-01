@@ -1,0 +1,10 @@
+{
+    "key_board_layout":"us",
+	"Auto_boot":true,
+	"root_password":"Dell123",
+	"reboot":true,
+	"install_type_list":"minimal graphical-server-environment",
+	"install_type":"graphical-server-environment",
+	"packages":[],
+	"ftp":"ftp://100.69.38.131/rhel9.0/"
+}
